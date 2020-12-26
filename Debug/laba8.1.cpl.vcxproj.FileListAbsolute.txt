@@ -1,0 +1,2 @@
+D:\IT\labs\laba8.1.cpl\Debug\laba8.1.cpl.exe
+D:\IT\labs\laba8.1.cpl\Debug\laba8.1.cpl.pdb
